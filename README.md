@@ -6,7 +6,7 @@
 
 > Online Bus Ticketing System is a console based application.
 
-> Build Bus ticketing system application during the construct week at [Masai School](https://masaischool.com/). Completed the project within five days.
+> Build Bus ticketing system application during the construct week at [Masai School](https://masaischool.com/). This is an individual project. Completed the project within five days.
 
 
 # Features
